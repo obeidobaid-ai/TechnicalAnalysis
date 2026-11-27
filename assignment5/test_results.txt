@@ -1,0 +1,11 @@
+SMA passed
+EMA passed
+MACD passed
+Standard deviation passed
+Linear regression passed
+RSI passed
+Stochastic RSI passed
+Crossover passed
+Crossunder passed
+
+All nine indicator test groups passed.
